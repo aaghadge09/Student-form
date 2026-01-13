@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Student Form</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <h3>Student Information Form</h3>
+
+    <form>
+        <label for="name">Student Name:</label><br>
+        <input type="text" id="name" name="student_name"><br><br>
+
+        <label>Year:</label><br>
+        <input type="radio" id="year1" name="year" value="1">
+        <label for="year1">1</label>
+        <input type="radio" id="year2" name="year" value="2">
+        <label for="year2">2</label>
+        <input type="radio" id="year3" name="year" value="3">
+        <label for="year3">3</label>
+        <input type="radio" id="year4" name="year" value="4">
+        <label for="year4">4</label><br><br>
+
+        <label for="faculty">Faculty:</label><br>
+        <select id="faculty" name="faculty">
+            <option value="science">Science</option>
+            <option value="arts">Arts</option>
+            <option value="commerce">Commerce</option>
+            <option value="engineering">Engineering</option>
+        </select><br><br>
+
+        <label for="div">Division:</label><br>
+        <input type="text" id="div" name="division"><br><br>
+
+        <input type="submit" value="Submit">
+    </form>
+
+</body>
+</html>
