@@ -1,0 +1,44 @@
+🎓 Student Registration Portal
+
+A simple and responsive Student Registration Form built using HTML5 and CSS3.
+This project is suitable for beginners learning frontend web development and form design.
+
+📌 Project Description
+
+The Student Registration Portal allows users to enter basic student details such as name, email, department, and gender through a clean and user-friendly interface.
+
+It demonstrates:
+
+Semantic HTML structure
+
+External CSS styling
+
+Form elements and layout design
+
+Basic UI/UX principles
+
+🛠️ Technologies Used
+
+HTML5
+
+CSS3
+
+✨ Features
+
+Clean and modern UI
+
+Header, navigation bar, main content, and footer
+
+Student registration form with:
+
+Full Name
+
+Email
+
+Department selection
+
+Gender selection
+
+Hover effects for buttons and inputs
+
+Responsive centered form layout
